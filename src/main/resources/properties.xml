@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>Firm Advisor application properties</comment>
+	<!-- 2GIS API key to be used to invoke 2GIS services. -->
+	<entry key="2gis.api.key">${2gis.api.key}</entry>
+	<!-- Comma-separated list of the cities where to find advised firms. -->
+	<entry key="search.in.cities">Новосибирск,Омск,Томск,Кемерово,Новокузнецк</entry>
+</properties>
