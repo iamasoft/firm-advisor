@@ -68,6 +68,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>${project.artifactId}</finalName>
 		<!-- Turning on resources filtering in order to substitute properties during build. -->
 		<resources>
 			<resource>
